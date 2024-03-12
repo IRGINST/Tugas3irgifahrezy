@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tugas2Irgi</string>
+
+
+    <string-array name="nama_mobil">
+        <item>Daihatsu Ayla</item>
+        <item>Daihatsu Sigra</item>
+        <item>Honda Brio</item>
+        <item>Mitsubishi Xpander</item>
+        <item>Toyota Calya</item>
+    </string-array>
+
+    <string-array name="merk_mobil">
+        <item>Daihatsu</item>
+        <item>Daihatsu</item>
+        <item>Honda</item>
+        <item>Mitsubishi</item>
+        <item>Toyota</item>
+    </string-array>
+
+    <string-array name="harga_mobil">
+        <item>100.000.000</item>
+        <item>100.000.000</item>
+        <item>100.000.000</item>
+        <item>100.000.000</item>
+        <item>100.000.000</item>
+    </string-array>
+
+    <string-array name="foto_mobil">
+        <item>daihatsu_ayla</item>
+        <item>daihatsu_sigra</item>
+        <item>honda_brio</item>
+        <item>mitsubishi_xpander</item>
+        <item>toyota_calya</item>
+    </string-array>
+
+</resources>
